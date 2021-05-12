@@ -1,1 +1,2 @@
-this is the first time with git
+this is the first time with git.
+God is Great.
