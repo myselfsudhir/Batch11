@@ -1,0 +1,20 @@
+button {
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+  }
+  
+  button#book:focus,
+  button#author:focus,
+  button#pages:focus,
+  button#price:focus,
+  button#review:focus {
+    background:black;
+    color:red;
+  }
+  #btn{
+      text-align: center;
+  }
+  h1{
+      color: red;
+  }
